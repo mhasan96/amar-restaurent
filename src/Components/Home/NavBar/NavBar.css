@@ -1,0 +1,23 @@
+.nav img {
+  height: 50px;
+}
+.bg-img {
+  background-image: url("../../../images/bannerbackground.png");
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.nav {
+  padding-top: 10px;
+}
+.btn-food {
+  margin-left: -116px;
+}
+.searchBar {
+  padding-top: 150px;
+}
+
+.input-box {
+  width: 400px;
+}
